@@ -1,5 +1,6 @@
 // Assignment code here
 
+var numbers = ['1',];
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
