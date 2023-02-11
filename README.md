@@ -2,7 +2,7 @@
 
 A random password generator, better than LastPass or BitWarden!
 
-[This is an external link to his portfolio](https://rhodemc.github.io/md3-password-generator-repo/)
+[This is an external link to the password generator](https://rhodemc.github.io/md3-password-generator-repo/)
 
 ## Description
 
@@ -20,7 +20,7 @@ N/A
 
 To enjoy this site, click the Generate Password button in the center of the page. Once clicked, a prompt and series of confirmation windows will allow you to specify your random password based on character length and inclusion or exclusion of numbers, lowercase letters, uppercase letters and special characters. Once the parameters have been specified, the password generator will provide you with a random password.
 
-![Matt Rhodes' Portfolio Homepage](assets/images/password-generator-homepage.png)
+![Password Generator Homepage](assets/images/password-generator-homepage.png)
 
 ## Credits
 
